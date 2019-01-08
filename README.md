@@ -13,6 +13,7 @@
 ![](Instructions.png)
 
 ### 3. 歌詞檔的格式注意
+
 a. 歌詞檔為純文字 .txt檔 <br>
 b. 每行會顯示為一頁 <br>
 c. 每行以斜線分隔英中歌詞 (ex. A whole new world/一個全新的世界) <br>
