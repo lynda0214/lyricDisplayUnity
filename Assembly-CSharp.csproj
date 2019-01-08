@@ -424,6 +424,12 @@
  <Reference Include="UnityEngine.SpatialTracking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
+ <Reference Include="System.Windows.Forms">
+ <HintPath>/Users/LyndaMac/Desktop/LyricDisplayUnity/Assets/StandaloneFileBrowser/Plugins/System.Windows.Forms.dll</HintPath>
+ </Reference>
+ <Reference Include="Ookii.Dialogs">
+ <HintPath>/Users/LyndaMac/Desktop/LyricDisplayUnity/Assets/StandaloneFileBrowser/Plugins/Ookii.Dialogs.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEngine.Advertisements.Editor">
  <HintPath>/Users/LyndaMac/Desktop/LyricDisplayUnity/Library/PackageCache/com.unity.ads@2.3.1/Runtime/UnityEngine.Advertisements.Editor.dll</HintPath>
  </Reference>
@@ -438,12 +444,6 @@
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
  <HintPath>/Users/LyndaMac/Desktop/LyricDisplayUnity/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
- </Reference>
- <Reference Include="Ookii.Dialogs">
- <HintPath>/Users/LyndaMac/Desktop/LyricDisplayUnity/Assets/StandaloneFileBrowser/Plugins/Ookii.Dialogs.dll</HintPath>
- </Reference>
- <Reference Include="System.Windows.Forms">
- <HintPath>/Users/LyndaMac/Desktop/LyricDisplayUnity/Assets/StandaloneFileBrowser/Plugins/System.Windows.Forms.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

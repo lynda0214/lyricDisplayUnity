@@ -50,7 +50,7 @@ public class GameManager : MonoBehaviour
                 UpdateText();
             } 
             if (Input.GetKeyDown(KeyCode.RightArrow)) { // next line
-                if (lyricIndex < lines[songIndex].Count)
+                if (lyricIndex < lines[songIndex].Count-1)
                     lyricIndex++;
                 UpdateText();
                 instructionsGO.SetActive(false);
