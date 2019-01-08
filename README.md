@@ -4,7 +4,7 @@
 
 <br>
 ###點擊下面圖示下載Mac版桌面應用程式：
-[![](Assets/Textures/icon.png)](https://drive.google.com/drive/folders/1lxH8xt9bGsAxN92Cf1_vAeEWlXJ5b2Rb?usp=sharing)
+[![](icon.png)](https://drive.google.com/drive/folders/1lxH8xt9bGsAxN92Cf1_vAeEWlXJ5b2Rb?usp=sharing)
 <br>
 
 ###1. 介面
@@ -12,7 +12,7 @@
 ![播放歌詞](UI_PlayMode.png)
 
 ###2. 基本操作
-![](Assets/Textures/instructions.png)
+![](instructions.png)
 
 ###3. 歌詞檔的格式注意
 a. 歌詞檔為純文字 .txt檔 <br>
