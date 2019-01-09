@@ -1,6 +1,6 @@
 OSXUniversal
 PlayerPath?
-/Users/LyndaMac/Desktop/LyricDisplayUnity/Builds/The Phantom of the Lyrics v.2.app
+/Users/LyndaMac/Desktop/LyricDisplayUnity/Builds/The Phantom of the Lyrics v.3.app
 SceneListBegin?
 Assets/Scenes/Main.unity
 SceneListEnd?
