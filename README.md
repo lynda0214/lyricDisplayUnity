@@ -5,6 +5,8 @@
 點擊下面圖片下載桌面應用程式 (Mac) (資料夾內隨附歌詞範例資料夾)
 [![](icon.png)](https://drive.google.com/open?id=1lxH8xt9bGsAxN92Cf1_vAeEWlXJ5b2Rb)
 
+(柏翰的叮嚀：遇到 **未知開發者的程式** 請至 **系統偏好設定** -> **安全性與權限** 開啟權限)
+
 ### 1. 介面
 ![加入檔案](UI_LoadFile.png)
 ![播放歌詞](UI_PlayMode.png)
